@@ -1,4 +1,4 @@
-package MaximunAndMinimum;
+package TheLongestDistance;
 import java.util.Scanner;
 
 public class Java {
