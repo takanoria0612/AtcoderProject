@@ -21,5 +21,6 @@ public class Java {
             }
         }
         System.out.println(max);
+        sc.close();
     }
 }
